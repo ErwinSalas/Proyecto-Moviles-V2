@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Crisly-PC\Desktop\ProyectoMoviles\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Crisly-PC\Desktop\ProyectoMoviles\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0beac0b20560a8581c2e2f6f59f0859fd80918cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Crisly-PC\Desktop\ProyectoMoviles\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b5ff8d56a034c6df5d2e3705a9b982882fea76">
+        <dex dex="C:\Users\Crisly-PC\Desktop\ProyectoMoviles\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6944d6b3f26a58a54c579b9a212d010af1625ab5\classes.dex" />
+    </item>
+
+</items>

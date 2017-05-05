@@ -1,0 +1,7 @@
+#Thu May 04 21:42:46 CST 2017
+base.0=C\:\\Users\\Crisly-PC\\Desktop\\ProyectoMoviles\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6944d6b3f26a58a54c579b9a212d010af1625ab5
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Crisly-PC\\Desktop\\ProyectoMoviles\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0beac0b20560a8581c2e2f6f59f0859fd80918cb\\classes.dex
+base.1=C\:\\Users\\Crisly-PC\\Desktop\\ProyectoMoviles\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_0beac0b20560a8581c2e2f6f59f0859fd80918cb
+file.0=C\:\\Users\\Crisly-PC\\Desktop\\ProyectoMoviles\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_6944d6b3f26a58a54c579b9a212d010af1625ab5\\classes.dex

@@ -1,0 +1,19 @@
+#Thu May 04 21:42:41 CST 2017
+renamed.5=classes.dex
+renamed.4=classes3.dex
+renamed.3=classes4.dex
+renamed.2=classes2.dex
+renamed.1=classes5.dex
+renamed.0=classes6.dex
+base.5=C\:\\Users\\Crisly-PC\\Desktop\\ProyectoMoviles\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_631815d8b8250e8b3c6603d568b6422612ccb1f0
+base.4=C\:\\Users\\Crisly-PC\\Desktop\\ProyectoMoviles\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_8b437c2d9ca3d1b62b79680ac904d92736cc6526
+base.3=C\:\\Users\\Crisly-PC\\Desktop\\ProyectoMoviles\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_8b5d11de90cca82d00f2e6f362cd312ce33d811f
+base.2=C\:\\Users\\Crisly-PC\\Desktop\\ProyectoMoviles\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_76644e65164b2108e50cdc4f1375902e68875e2d
+base.1=C\:\\Users\\Crisly-PC\\Desktop\\ProyectoMoviles\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.3.0_a8e501b12f8c629bf79daebf2296c66e9a7b59a7
+base.0=C\:\\Users\\Crisly-PC\\Desktop\\ProyectoMoviles\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.3.0_6e805967121b0942612b86875cbcbd1d863d9eba
+file.5=C\:\\Users\\Crisly-PC\\Desktop\\ProyectoMoviles\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_631815d8b8250e8b3c6603d568b6422612ccb1f0\\classes.dex
+file.4=C\:\\Users\\Crisly-PC\\Desktop\\ProyectoMoviles\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_8b437c2d9ca3d1b62b79680ac904d92736cc6526\\classes.dex
+file.3=C\:\\Users\\Crisly-PC\\Desktop\\ProyectoMoviles\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_8b5d11de90cca82d00f2e6f362cd312ce33d811f\\classes.dex
+file.2=C\:\\Users\\Crisly-PC\\Desktop\\ProyectoMoviles\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_76644e65164b2108e50cdc4f1375902e68875e2d\\classes.dex
+file.1=C\:\\Users\\Crisly-PC\\Desktop\\ProyectoMoviles\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.3.0_a8e501b12f8c629bf79daebf2296c66e9a7b59a7\\classes.dex
+file.0=C\:\\Users\\Crisly-PC\\Desktop\\ProyectoMoviles\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.3.0_6e805967121b0942612b86875cbcbd1d863d9eba\\classes.dex
